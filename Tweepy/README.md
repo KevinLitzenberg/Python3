@@ -1,6 +1,6 @@
-Tweepy API Python files:
+# Tweepy API Python files:
 
-Written using Python3.8: Uses f'strings so Python3.6 >, however not tested on any other version then 3.8.
+*Written using Python3.8: Uses f'strings so Python3.6 >, however not tested on any other version then 3.8.*
 
 SecretsManager: version 0.0.1
 	* A class for managing Twitter API Keys and Tokens.
